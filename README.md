@@ -13,7 +13,7 @@ The analysis code **pasna2021** only supports Python3, so in the commands below,
 > cd pasna-acr-currbio2021
 > cd data
 ```
-2. Inside the **data** directory, there are four folders corresponding to data from four main experiment groups. Each group except **wt** contains a control (**ctl**) folder and an experimental (**exp**) folder. Within each folder, there is a **.xlsx** file containing summary information for each embryo. The fluorescence time course of each embryo is in a separate **.csv** file.
+3. Inside the **data** directory, there are four folders corresponding to data from four main experiment groups. Each group except **wt** contains a control (**ctl**) folder and an experimental (**exp**) folder. Within each folder, there is a **.xlsx** file containing summary information for each embryo. The fluorescence time course of each embryo is in a separate **.csv** file.
 
 # Analysis Code Installation
 
