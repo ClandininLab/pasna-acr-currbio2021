@@ -1,5 +1,5 @@
 # pasna-acr-currbio2021
-Original data and analysis code for Carreira-Rosario et al. "Mechanosensory input during circuit formation shapes Drosophila motor behavior through Patterned Spontaneous Network Activity", Current Biology 2021.
+Original data and analysis code for Carreira-Rosario et al. "Mechanosensory input during circuit formation shapes Drosophila motor behavior through Patterned Spontaneous Network Activity", Current Biology 2021. (https://doi.org/10.1016/j.cub.2021.08.022)
 
 # Prerequisites
 
